@@ -41,4 +41,4 @@ To get started with the course, follow these steps:
 Contributions to this course are highly appreciated. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on GitHub.
 
 ## License
-This course is licensed under the [MIT License](LICENSE). Feel free to modify and adapt the course materials for your teaching purposes.
+This course is licensed under the [MIT License](LICENSE). 
