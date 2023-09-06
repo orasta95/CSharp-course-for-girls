@@ -3,24 +3,28 @@ This repository contains a comprehensive C# programming course tailored specific
 
 ## Course Overview
 The course is divided into several modules, each covering different aspects of C# programming. Here's an overview of what you will learn:
+
 ### Module 1: Introduction to C# Programming
 - Setting up the development environment
 - Basic syntax and data types
 - Variables, operators, and expressions
 - Control flow statements (if-else, loops)
 - Arrays and collections
+
 ### Module 2: Object-Oriented Programming (OOP) in C#
 - Understanding classes and objects
 - Encapsulation, inheritance, and polymorphism
 - Working with methods and properties
 - Exception handling
 - File input/output
+
 ### Module 3: Advanced C# Concepts
 - Generics and collections
 - Delegates and events
 - LINQ (Language-Integrated Query)
 - Multithreading and asynchronous programming
 - Networking and web development
+
 ### Module 4: Graphical User Interfaces (GUI) with C#
 - Introduction to Windows Forms and WPF
 - Designing user-friendly interfaces
@@ -38,7 +42,3 @@ Contributions to this course are highly appreciated. If you find any issues or h
 
 ## License
 This course is licensed under the [MIT License](LICENSE). Feel free to modify and adapt the course materials for your teaching purposes.
-
-## Acknowledgements
-We would like to express our gratitude to all the contributors and resources that have helped in creating this course.
-Feel free to customize this README.md file according to your specific teaching methodology and curriculum. Good luck with your C# programming course!
