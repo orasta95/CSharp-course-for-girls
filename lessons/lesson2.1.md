@@ -265,6 +265,4 @@ int x = 10 / 5 * 2;
 ### Домашнее задание
 1. Programming Taskbook Электронный задачник по программированию
    - Integer2, Integer4 страница 10
-   - Boolean3, Boolean5 страница 12
-   - If2, If5 страница 15
-   - Case2 страница 18
+   - Boolean3, Boolean5 страница 12   
