@@ -247,5 +247,4 @@ for (int i = 0; i < 9; i++)
 
 ### Домашнее задание
 1. Programming Taskbook Электронный задачник по программированию
-   - Integer2, Integer4 страница 10
-   - Boolean3, Boolean5 страница 12   
+   
